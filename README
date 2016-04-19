@@ -1,2 +1,10 @@
 ## A simple verto_communicator builder
 
+Run like this:
+
+  docker run -v [absolute_path]/verto:/verto -i -t netcomposer/verto_communicator
+
+You'll find a copy of the verto_communicator inside the [absolute_path] once the
+docker container finish.
+
+
